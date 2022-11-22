@@ -3,6 +3,11 @@
   <p> ChampSim is a trace-based simulator for a microarchitecture study. You can sign up to the public mailing list by sending an empty mail to champsim+subscribe@googlegroups.com. If you have questions about how to use ChampSim, you can often receive a quicker response on the mailing list. Please reserve GitHub Issues for bugs. <p>
 </p>
 
+# Submission Notes: CS6600 Assignment - Implement own branch predictor, Dept. of CSE, IIT Madras 
+This assignment contains our own implementation of a branch predictor based on perceptron. Kindly check the BranchPredictor.pdf for more details about the assignment. The traces can found here (https://drive.google.com/drive/folders/1HBolcp95CV9V7gCPY3ZEtAsK-Bl2HSZ_)
+
+
+This repository is forked from the original repository (https://github.com/ChampSim/ChampSim.git)
 # Clone ChampSim repository
 ```
 git clone https://github.com/ChampSim/ChampSim.git
